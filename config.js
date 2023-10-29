@@ -50,13 +50,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'ꪶ٭𝑺𝜥𝑺 𝐵𝜣𝑆𝑆٭ꫂ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = 'ㅤㅤ
+ㅤㅤ
+ㅤㅤㅤㅤIG| _sks_bot_' 
 global.author = '@Asliguru' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/_sks_bot_\n' 
+global.dygp = 'https://chat.whatsapp.com/DAMuVjxVMplGoEpaTyINMa'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
